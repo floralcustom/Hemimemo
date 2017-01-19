@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyboard_top">70dp</dimen>
+
+    <dimen name="key_layout_height">50dp</dimen>
+    <dimen name="keysize">42dp</dimen>
+    <dimen name="keysize_margin_lr">1dp</dimen>
+    <dimen name="key_function_layout_height">40dp</dimen>
+	<dimen name="key_function_width">53.5dp</dimen>    
+    <dimen name="key_function_height">35dp</dimen>
+    <dimen name="key_function_esc_width">55dp</dimen>
+    
+    <dimen name="keysize_caps_width">57dp</dimen>
+    <dimen name="keysize_enter_width">71dp</dimen>
+    
+    <dimen name="keysize_shift_width">64dp</dimen>
+    
+    <dimen name="keysize_control_width">79dp</dimen>
+    <dimen name="keysize_option_width">71dp</dimen>
+    <dimen name="keysize_space_width">300dp</dimen>
+    
+    <dimen name="keyboard_bottom">10dp</dimen>
+    
+    <dimen name="keysize_round">10dp</dimen>
+    <dimen name="keysize_stroke">4dp</dimen>
+    
+    <dimen name="memo_left">8dp</dimen>
+</resources>
